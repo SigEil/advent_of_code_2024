@@ -1,5 +1,2 @@
 # Ignore PyCharm files
 .idea/
-
-# Ignore Assets
-/Assets
