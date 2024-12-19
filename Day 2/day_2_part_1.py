@@ -14,4 +14,4 @@ with open('day_2_input.txt') as file:
         all(min_difference <= abs(report[i + 1] - report[i]) <= max_difference for i in range(len(report) - 1))
     )
 
-print('Correct Report:', correct_reports)
+print('Correct Reports:', correct_reports)
